@@ -69,7 +69,7 @@ nav .logo{
 nav ul{
     display: flex;
     align-items: center;
-    gap: 60px;
+    gap: 55px;
     margin-right: 80px;
     color:#FFFFFF;
 }
